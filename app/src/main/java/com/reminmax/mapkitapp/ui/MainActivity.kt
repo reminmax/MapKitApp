@@ -1,4 +1,4 @@
-package com.reminmax.mapkitapp
+package com.reminmax.mapkitapp.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
